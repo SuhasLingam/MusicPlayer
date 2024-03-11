@@ -1,0 +1,7 @@
+{
+  "name": "MusicPlayer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SuhasLingam <sl7215@srmist.edu.in>",
+  "license": "MIT"
+}
