@@ -10,9 +10,9 @@ const search = () => {
           placeholder="Search Music"
           className="text-black rounded-3xl w-[400px] h-[50px] pl-5 pr-3"
         />
-        <span className="flex items-center justify-center rounded-full bg-white p-3">
+        <button className="flex items-center justify-center rounded-full bg-white p-3">
           <FaSearch size={25} />
-        </span>
+        </button>
       </div>
     </div>
   );
